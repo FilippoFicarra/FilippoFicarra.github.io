@@ -1,20 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Filippo Ficarra
 
-# Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Filippo
+last_name: Ficarra
 
-# Pronouns (optional)
-pronouns: she/her
-
-# Status emoji
-status:
-  icon: ☕️
+ 
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,167 +16,174 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: 
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: 
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:filippoficarra.careers@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  # - icon: brands/x
+  #   url: https://twitter.com/GetResearchDev
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/FilippoFicarra
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/filippo-ficarra/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=zhExZoYAAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0009-0005-1271-6078
 
 interests:
   - Artificial Intelligence
+  - Learning Optimisation
   - Computational Linguistics
-  - Information Retrieval
+  - AI Secutrity
+
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MSc Computer Science
+    institution: ETH Zürich
+    date_start: 2022-09-01
+    date_end: 2024-11-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      GPA: 5.3/6
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Major: Machine Intelligence
+      Relevant Courses:
+      - NLP
+      - Large Language Models
+      - Computer Vision
+      - Probabilistic AI
+
+      Minor: Information Security
+      Relevant Courses:
+      - Applied Cryptography
+      - Information Security Lab
+      - Security of Wireless Networks
+      - Network Security
+
+  - area: BEng Computer Engineering
+    institution: Politecnico di Torino
+    date_start: 2019-09-01
+    date_end: 2022-07-01
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      GPA: 110/110 cum laude
+
+      Additional Details:
+      - Fully funded by Merit-based Scholarship: "Percoso Giovani Talenti"
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Research Scientist - Intern
+    company_name: IBM Research Zürich
+    company_url: 'https://www.research.ibm.com/labs/zurich/'
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2025-01-01
+    date_end: 2025-07-31
     summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      Responsibilities included:
+      - Developing AI models to predict molecular structures from mixture IR spectra, achieving state-of-the-art accuracy surpassing human experts.
+      - Building domain-specific knowledge extraction systems and fine-tuning LLMs for single-atom catalyst synthesis using DeepSpeed and LangChain.
+      - Setting up and managing large-scale distributed training of LLMs (8B–405B parameters) on multi-node GPU clusters.
+
+  - position: Student Teaching Assistant
+    company_name: ETH Zürich
+    company_url: 'https://ethz.ch/en.html'
+    company_logo: ''
+    date_start: 2023-09-01
+    date_end: 2024-09-30
+    summary: |2-
+      Responsibilities included:
+      - Teaching "Prompting and Calibration" tutorial for Large Language Models; wrote, supervised, and corrected the final exam.
+      - Supervising students during Information Security Lab sessions, testing assignments in advance, and leading tutorials including the Tamarin tutorial.
+
+  - position: Backend Engineer - Intern
+    company_name: ORBYTA TECH
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+    date_start: 2022-03-01
+    date_end: 2022-06-30
+    summary: |2-
+      Responsibilities included:
+      - Designing and optimizing REST APIs for a B2B clothing company.
+      - Developing the backend using C#, ASP.NET, ABP Framework, and MySQL database.
+
+  - position: Mobile Developer
+    company_name: JEToP - Student Association
+    company_url: ''
+    company_logo: ''
+    date_start: 2021-11-01
+    date_end: 2022-08-31
+    summary: |2-
+      Responsibilities included:
+      - Front-end development for a podcast application including multimedia player, routing, and pages using Typescript and React Native.
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
+      - name: Python, C#, Java, C, Bash, Javascript / Typescript
+        description:
+        percent: 90
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
+      - name: Git, Docker, LaTeX, PyTorch
+        description:
+        percent: 60
+        icon: wrench
+      - name: Linux, Slurm
+        description:
+        percent: 70
+        icon: server
+
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Guitar
         description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: musical-note
+      - name: Singing
         description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
+        icon: microphone
+      - name: Cooking
         description: ''
-        percent: 80
-        icon: camera
-
+        icon: fire
 languages:
   - name: English
-    percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    # percent: 100
+  - name: Italian
+    # percent: 75
+
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+# awards:
+  # - title: 
+  #   url: 
+  #   date: 
+  #   awarder: 
+  #   icon: 
+  #   summary: |
+  #     
+ 
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+🇮🇹 I am passionate about Large Language Models (LLMs), particularly in optimizing their performance, exploring distributed and multi-device learning, and enabling knowledge sharing between models. I am also curious about how LLMs work internally, why they hallucinate, and whether their behavior can be leveraged for novel applications. 
+
+In the past, I have worked with LLMs for chemistry applications, developing models to predict molecular structures from spectral data.
+
+Beyond research, I am deeply interested in the security and privacy of AI systems, as well as software engineering. I enjoy combining ML with app development to create practical and innovative solutions, bridging the gap between cutting-edge AI research and real-world applications, building both intelligent systems and the software that makes them accessible.
