@@ -186,6 +186,6 @@ languages:
 
 Along the way, I’ve taught and written my thesis at ETH and worked at IBM, experiences that helped me see how theory and practice come together. Beyond research, I love turning learning into teaching. I’ll plan to post regular lessons and reflections on this site, a space to share insights, explore ideas, and keep curiosity alive. 
 
-When I’m not building or studying AI, you’ll often find me playing guitar and singing, cooking new recipes, or climbing mountains. 
+When I’m not building or studying AI, you’ll often find me playing guitar and singing, cooking new recipes, or climbing. 
 I believe that creating, learning, and exploring, both in and out of the lab, are what make life meaningful.
 
