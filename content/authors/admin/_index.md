@@ -42,11 +42,11 @@ profiles:
   - icon: academicons/orcid
     url: https://orcid.org/0009-0005-1271-6078
 
-interests:
-  - Artificial Intelligence
-  - Learning Optimisation
-  - Computational Linguistics
-  - AI Secutrity
+# interests:
+#   - Artificial Intelligence
+#   - Learning Optimisation
+#   - Computational Linguistics
+#   - AI Secutrity
 
 
 education:
@@ -182,8 +182,10 @@ languages:
 
 ## About Me
 
-🇮🇹 I am passionate about Large Language Models (LLMs), particularly in optimizing their performance, exploring distributed and multi-device learning, and enabling knowledge sharing between models. I am also curious about how LLMs work internally, why they hallucinate, and whether their behavior can be leveraged for novel applications. 
+🇮🇹 During my bachelor’s studies, I realized that the future belongs to AI, not as a replacement for people, but as a way to empower them. From that moment, I’ve been inspired to contribute through research and development, advancing progress one step at a time.
 
-In the past, I have worked with LLMs for chemistry applications, developing models to predict molecular structures from spectral data.
+Along the way, I’ve taught and written my thesis at ETH and worked at IBM, experiences that helped me see how theory and practice come together. Beyond research, I love turning learning into teaching. I’ll plan to post regular lessons and reflections on this site, a space to share insights, explore ideas, and keep curiosity alive. 
 
-Beyond research, I am deeply interested in the security and privacy of AI systems, as well as software engineering. I enjoy combining ML with app development to create practical and innovative solutions, bridging the gap between cutting-edge AI research and real-world applications, building both intelligent systems and the software that makes them accessible.
+When I’m not building or studying AI, you’ll often find me playing guitar and singing, cooking new recipes, or climbing mountains. 
+I believe that creating, learning, and exploring, both in and out of the lab, are what make life meaningful.
+

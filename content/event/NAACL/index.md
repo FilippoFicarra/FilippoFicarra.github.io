@@ -12,12 +12,10 @@ address:
   postcode: '87102'
   country: United States
 
+
 summary: |
-  I was thrilled to present my Master’s thesis at NAACL 2025. 
-  Sharing my research with the community, discussing ideas with peers, 
-  and receiving feedback was an invaluable experience. 
-  I take this opportunity home with me as inspiration and motivation 
-  to continue exploring and advancing my work in NLP and LLMs.
+  I was thrilled to present my Master’s thesis at NAACL 2025. Sharing my research with the community, discussing ideas with peers, and receiving feedback was an invaluable experience. 
+  I take this opportunity home with me as inspiration and motivation to continue exploring and advancing my work in NLP and LLMs.
 abstract: Language models (LMs) are increasingly being studied as models of human language learners.Due to the nascency of the field, it is not well-established whether LMs exhibit similar learning dynamics to humans, and there are few direct comparisons between learning trajectories in humans and models.Word learning trajectories for children are relatively well-documented, and recent work has tried to extend these investigations to language models.However, there are no widely agreed-upon metrics for word learning in language models.We take a distributional approach to this problem, defining lexical knowledge in terms of properties of the learned distribution for a target word.We argue that distributional signatures studied in prior work fail to capture key distributional information. Thus, we propose an array of signatures that improve on earlier approaches by capturing knowledge of both where the target word can and cannot occur as well as gradient preferences about the word’s appropriateness.We obtain learning trajectories for a selection of small language models we train from scratch, study the relationship between different distributional signatures, compare how well they align with human word learning trajectories and interpretable lexical features, and address basic methodological questions about estimating these distributional signatures.Our metrics largely capture complementary information, suggesting that it is important not to rely on a single metric.However, across all metrics, language models’ learning trajectories fail to correlate with those of children.
 
 # Talk start and end times.
@@ -64,3 +62,6 @@ slides: ""
 projects:
   - example
 ---
+
+I was thrilled to present my Master’s thesis at **NAACL 2025**. Sharing my research with the community, discussing ideas with peers, and receiving feedback was an invaluable experience. 
+I take this opportunity home with me as inspiration and motivation to continue exploring and advancing my work in NLP and LLMs.
