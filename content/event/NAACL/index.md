@@ -1,5 +1,5 @@
 ---
-title: NAACL 2025 Poster Sessioon
+title: NAACL 2025 Poster Session
 
 event: NAACL 2025 Conference
 event_url: https://2025.naacl.org
