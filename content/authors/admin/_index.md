@@ -7,6 +7,8 @@ title: Filippo Ficarra
 first_name: Filippo
 last_name: Ficarra
 
+status:
+  icon: 🇮🇹
  
 
 # Is this the primary user of the site?
@@ -182,7 +184,7 @@ languages:
 
 ## About Me
 
-🇮🇹 During my bachelor’s studies, I realized that the future belongs to AI, not as a replacement for people, but as a way to empower them. From that moment, I’ve been inspired to contribute through research and development, advancing progress one step at a time.
+During my bachelor’s studies, I realized that the future belongs to AI, not as a replacement for people, but as a way to empower them. From that moment, I’ve been inspired to contribute through research and development, advancing progress one step at a time.
 
 Along the way, I’ve taught and written my thesis at ETH and worked at IBM, experiences that helped me see how theory and practice come together. Beyond research, I love turning learning into teaching. I’ll plan to post regular lessons and reflections on this site, a space to share insights, explore ideas, and keep curiosity alive. 
 

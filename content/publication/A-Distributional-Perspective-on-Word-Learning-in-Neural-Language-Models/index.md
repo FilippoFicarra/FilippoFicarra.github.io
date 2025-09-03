@@ -5,14 +5,14 @@ title: 'A Distributional Perspective on Word Learning in Neural Language Models'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Ryan Cotterell
-  - Alex Warstadt
+  - "admin"
+  - "Ryan Cotterell"
+  - "Alex Warstadt"
 
 author_notes:
-  - ETH Zürich
-  - ETH Zürich
-  - ETH Zürich, UC San Diego
+  - "ETH Zürich"
+  - "ETH Zürich"
+  - "ETH Zürich, UC San Diego"
 
 
 date: '2025-04-29T00:00:00Z'

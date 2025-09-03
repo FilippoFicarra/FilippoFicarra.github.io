@@ -1,14 +1,14 @@
 ---
 title: "Language Model Enabled Structure Prediction from Infrared Spectra of Mixtures"
 authors:
-  - admin
-  - Marvin Alberts
-  - Teodoro Laino
+  - "admin"
+  - "Marvin Alberts"
+  - "Teodoro Laino"
   
 author_notes:
-  - Work dony while interning at IBM Research Zürich
-  - IBM Research Zürich
-  - IBM Research Zürich
+  - "Work done while interning at IBM Research Zürich, Equal Contribution"
+  - "IBM Research Zürich, Equal Contribution"
+  - "IBM Research Zürich"
   
 date: "2025-07-02T00:00:00Z"
 
