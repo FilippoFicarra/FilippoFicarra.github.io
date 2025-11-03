@@ -45,8 +45,7 @@ sections:
         why they hallucinate, and whether their behavior can be leveraged for new applications. 
 
         In addition, I am deeply interested in the security and privacy of AI systems, exploring potential vulnerabilities 
-        and ways to mitigate them. For a PhD, I would like to explore these topics further, combining theoretical understanding 
-        with practical solutions to advance the capabilities and safety of AI systems.
+        and ways to mitigate them.
     design:
       columns: '1'
   - block: collection
