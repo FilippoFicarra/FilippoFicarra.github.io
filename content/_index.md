@@ -49,6 +49,21 @@ sections:
     design:
       columns: '1'
   - block: collection
+    id: news
+    content:
+      title: News!
+      subtitle: ''
+      text: |-
+        * **Sep 2025**: 🥳 Thrilled to share that [**Language Model Enabled Structure Prediction**](https://filippoficarra.github.io/publication/language-model-enabled-structure-prediction-from-infrared-spectra-of-mixtures/) was accepted to AI4MAT at **NeurIPS 2025**!
+        * **Feb 2025**:  🥳 Thrilled to share that [**A Distributional Perspective on Word Learning in Neural Language Models**](https://filippoficarra.github.io/publication/a-distributional-perspective-on-word-learning-in-neural-language-models/) was accepted to **NAACL 2025**.
+      page_type: "compact"
+      count: 0
+    design:
+      # '1' column is best for a list of bullet points
+      columns: '1'
+      spacing:
+        padding: [0, 0, 0, 0]
+  - block: collection
     id: papers
     content:
       title: Featured Publications
@@ -79,33 +94,5 @@ sections:
     design:
       view: article-grid
       columns: 1
-  # - block: collection
-  #   id: news
-  #   content:
-  #     title: Recent News
-  #     subtitle: ''
-  #     text: ''
-  #     # Page type to display. E.g. post, talk, publication...
-  #     page_type: post
-  #     # Choose how many pages you would like to display (0 = all pages)
-  #     count: 5
-  #     # Filter on criteria
-  #     filters:
-  #       author: ""
-  #       category: ""
-  #       tag: ""
-  #       exclude_featured: false
-  #       exclude_future: false
-  #       exclude_past: false
-  #       publication_type: ""
-  #     # Choose how many pages you would like to offset by
-  #     offset: 0
-  #     # Page order: descending (desc) or ascending (asc) date.
-  #     order: desc
-  #   design:
-  #     # Choose a layout view
-  #     view: date-title-summary
-  #     # Reduce spacing
-  #     spacing:
-  #       padding: [0, 0, 0, 0]
+  
 ---

@@ -84,6 +84,15 @@ education:
       - Fully funded by Merit-based Scholarship: "Percoso Giovani Talenti"
 
 work:
+  - position: Machine Learning Engineer
+    company_name: Capacity, Starmind Team
+    company_url: 'https://www.starmind.com'
+    company_logo: ''
+    date_start: 2026-01-12
+    date_end: 
+    summary: |2-
+      Responsibilities included:
+      - Building and e2e knowledge graph for user expertise matching.
   - position: Research Scientist - Intern
     company_name: IBM Research Zürich
     company_url: 'https://www.research.ibm.com/labs/zurich/'

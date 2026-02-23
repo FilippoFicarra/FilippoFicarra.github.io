@@ -13,8 +13,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: ''
+    org_name: 'Filippo Ficarra'
+    description: 'AI researcher and software engineer.'
     twitter: ''
   analytics:
     google_analytics: ''
