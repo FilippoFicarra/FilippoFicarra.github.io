@@ -90,7 +90,9 @@ work:
     company_logo: ''
     date_start: 2026-07-01
     date_end: ''
-    summary: ''
+    summary: |2-
+      Responsibilities include:
+      - Compute Abuse Defense: Designing systems to mitigate compute abuse risks in large-scale AI models, with a focus on security and resource optimization.
 
   - position: Machine Learning Engineer
     company_name: Capacity, Starmind Team
