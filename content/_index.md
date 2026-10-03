@@ -36,7 +36,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: 'My Research Intersets'
+      title: 'My Research Interests'
       subtitle: ''
       text: |-
         My research interests focus on improving and understanding Large Language Models (LLMs). 
@@ -54,6 +54,7 @@ sections:
       title: News!
       subtitle: ''
       text: |-
+        * **Jul 2026**: 🚀 Excited to share that I have joined **Google** (Zurich) as a **Software Engineer**!
         * **Sep 2025**: 🥳 Thrilled to share that [**Language Model Enabled Structure Prediction**](https://filippoficarra.github.io/publication/language-model-enabled-structure-prediction-from-infrared-spectra-of-mixtures/) was accepted to AI4MAT at **NeurIPS 2025**!
         * **Feb 2025**:  🥳 Thrilled to share that [**A Distributional Perspective on Word Learning in Neural Language Models**](https://filippoficarra.github.io/publication/a-distributional-perspective-on-word-learning-in-neural-language-models/) was accepted to **NAACL 2025**.
       page_type: "compact"

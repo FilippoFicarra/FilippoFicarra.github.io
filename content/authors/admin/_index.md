@@ -18,12 +18,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 
+role: Software Engineer
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 
-    url: 
+  - name: Google
+    url: 'https://about.google'
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -38,7 +38,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/FilippoFicarra
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/filippo-ficarra/
+    url: https://www.linkedin.com/in/filippoficarra/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=zhExZoYAAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
@@ -84,15 +84,23 @@ education:
       - Fully funded by Merit-based Scholarship: "Percoso Giovani Talenti"
 
 work:
+  - position: Software Engineer
+    company_name: Google
+    company_url: 'https://about.google'
+    company_logo: ''
+    date_start: 2026-07-01
+    date_end: ''
+    summary: ''
+
   - position: Machine Learning Engineer
     company_name: Capacity, Starmind Team
     company_url: 'https://www.starmind.com'
     company_logo: ''
     date_start: 2026-01-12
-    date_end: 
+    date_end: 2026-06-30
     summary: |2-
       Responsibilities included:
-      - Building and e2e knowledge graph for user expertise matching.
+      - Building an e2e knowledge graph for user expertise matching.
   - position: Research Scientist - Intern
     company_name: IBM Research Zürich
     company_url: 'https://www.research.ibm.com/labs/zurich/'
